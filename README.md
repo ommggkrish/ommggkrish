@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Krish 👋
 
-<!--
-**ommggkrish/ommggkrish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Sc. **Artificial Intelligence** student at the Deggendorf Institute of Technology (English-taught).
+I'm looking for a **working student role** in AI / ML, data or software engineering
+(remote in Germany, or Munich / Regensburg area).
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it does | Tech |
+|---|---|---|
+| [db-delay-dashboard](https://github.com/ommggkrish/db-delay-dashboard) | Interactive dashboard analysing Deutsche Bahn train delays | Python · DuckDB SQL · Streamlit |
+
+More projects coming soon: an AI agent with tool calling, an ML model with an MLOps pipeline,
+and a PyTorch computer vision project.
+
+## Skills
+
+**Languages:** Python · SQL · Java · Kotlin · C#
+**Web / APIs:** Flask · React · TypeScript · REST APIs
+**DevOps:** Docker · Kubernetes · GitHub Actions · Terraform
+**Tools:** Git · Jupyter
+
+## Languages
+English (fluent) · Hindi (native) · German (A2)
