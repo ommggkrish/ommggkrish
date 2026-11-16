@@ -15,10 +15,10 @@ and a PyTorch computer vision project.
 
 ## Skills
 
-**Languages:** Python · SQL · Java · Kotlin · C#
-**Web / APIs:** Flask · React · TypeScript · REST APIs
-**DevOps:** Docker · Kubernetes · GitHub Actions · Terraform
-**Tools:** Git · Jupyter
+- **Languages:** Python · SQL · Java · Kotlin · C#
+- **Web / APIs:** Flask · React · TypeScript · REST APIs
+- **DevOps:** Docker · Kubernetes · GitHub Actions · Terraform
+- **Tools:** Git · Jupyter
 
 ## Languages
 English (fluent) · Hindi (native) · German (A2)
