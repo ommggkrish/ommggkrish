@@ -8,7 +8,7 @@ I'm looking for a **working student role** in AI / ML, data or software engineer
 
 | Project | What it does | Tech |
 |---|---|---|
-| [db-delay-dashboard](https://github.com/ommggkrish/db-delay-dashboard) | Interactive dashboard analysing Deutsche Bahn train delays | Python · DuckDB SQL · Streamlit |
+| [db-delay-dashboard](https://github.com/ommggkrish/db-delay-dashboard) | Interactive dashboard analysing 172.5 M Deutsche Bahn train stops ([live demo](https://db-delay-dashboard-jx3rartsy7emodj5wfsduu.streamlit.app)) | Python · pandas · DuckDB SQL · Streamlit |
 | [movie-picture-pipeline](https://github.com/ommggkrish/movie-picture-pipeline) | CI/CD pipelines: lint, test, Docker build, deploy to Kubernetes (AWS EKS) | GitHub Actions · Docker · Kubernetes · AWS |
 | [sudoku-copilot-refactor](https://github.com/ommggkrish/sudoku-copilot-refactor) | Legacy Flask game refactored with GitHub Copilot: unique-solution generator, hints, scoreboard, 23 tests | Python · Flask · JavaScript · pytest · Copilot |
 
@@ -18,6 +18,7 @@ and a PyTorch computer vision project.
 ## Skills
 
 - **Languages:** Python · SQL · Java · Kotlin · C#
+- **Data:** pandas · DuckDB · Streamlit · Altair
 - **Web / APIs:** Flask · React · REST APIs
 - **DevOps:** Docker · Kubernetes · GitHub Actions · Terraform
 - **Tools:** Git · Jupyter
